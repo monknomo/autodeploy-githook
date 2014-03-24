@@ -1,0 +1,5 @@
+{"login":"username",
+"clone_url":"https://github.com/username/personal_website.git",
+"clone_dir":"~/holdingpen/",
+"dst_dir":"/var/www/"}
+
